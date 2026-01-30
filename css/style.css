@@ -69,6 +69,7 @@ footer {
   justify-content: center;
   font-size: 2rem;
   margin: 0 auto;
+  color: #00406d;
 }
 
 /* Check Icon */
@@ -77,6 +78,11 @@ footer {
   font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.4;
+}
+/* icon circle */
+.icon-circle{
+color: #00406d;
+background-color: #f1f5f9;
 }
 
 /* Process Steps */
@@ -92,6 +98,7 @@ footer {
   align-items: center;
   justify-content: center;
   margin: 0 auto;
+  background: #00406d;
 }
 
 /* Snackbar */
